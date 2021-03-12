@@ -1,14 +1,14 @@
 {
-  "name": "@mochiswap/sdk",
+  "name": "@mochiswap/hsdk",
   "license": "MIT",
-  "version": "0.0.4",
+  "version": "1.0.3",
   "description": "🛠 An SDK for building applications on top of MochiSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/VenomProtocol/mochiswap-sdk.git",
+  "repository": "https://github.com/mochiswap/mochiswap-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum",
